@@ -5,14 +5,14 @@
     "env": {
         "UUID": {
             "description": "v2ray UUID",
-            "value": "c95ef1d4-f3ac-4586-96e9-234a37dda068"        
+            "value": "ec5b4934-cec9-4506-bbf8-0bd845c97939"        
         },
         "PROTOCOL": {
             "description": "v2ray protocol, vmess or vless",
             "value": "vmess"
         }
     },
-    "website": "https://111111.online",
-    "repository": "https://github.com/yeahwu/kinto",
+    "website": "https://github.com/jgoq00/",
+    "repository": "https://github.com/jgoq00/isoamg",
     "stack": "container"
 }
